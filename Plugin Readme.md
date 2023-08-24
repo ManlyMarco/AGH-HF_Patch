@@ -1,3 +1,8 @@
+# AGHVR v0.1
+- Short description: VR mode for Houkago Rinkan Chuudoku
+- Author(s):         Eusth, ManlyMarco
+- More information:  https://github.com/ManlyMarco/AGHVR-BepInEx
+
 # BepInEx v5.4.21.0
 - Short description: Plugin framework
 - Author(s):         https://github.com/BepInEx
@@ -14,7 +19,7 @@
 - More information:  https://github.com/ManlyMarco/AGH-HF_Patch
 
 # Configuration Manager v18.0.1
-- Short description: Can change plugin settings. Press F1 to open, not visible inside HMD
+- Short description: Can change plugin settings. Press F1 to open
 - Author(s):         BepInEx
 - More information:  https://github.com/BepInEx/BepInEx.ConfigurationManager
 

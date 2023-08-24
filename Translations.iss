@@ -18,7 +18,7 @@ MsgDeepPath=Your game is in a very deeply nested folder, which can cause serious
 
 ;RunGame=&Run VR Kanojo
 ;RunWiki=Open VR Kanojo wiki (FAQ, English manual)
-RunDiscord=Join Koikatsu Discord server (Help, updates, sharing)
+RunDiscord=Join Koikatsu Discord server (Visit the #other-h-games channel)
 RunHF=Open HongFire release thread
 StartUpdate=Start mod updater (Download latest new mods and mod updates)
 
@@ -60,7 +60,7 @@ jp.MsgDeepPath=あなたのゲームは非常に深いディレクトリにあ�
 
 ;jp.RunGame=ゲームを始める
 ;jp.RunWiki=オープン英語AI-Shoujo/VR Kanojoのwiki（FAQ、マニュアル）
-jp.RunDiscord=英語のDiscordチャンネルに参加する（ヘルプ、アップデート、カード、モッズの共有）
+jp.RunDiscord=英語のDiscordチャンネルに参加する（#other-h-gamesチャンネルにアクセスしてください）
 jp.RunHF=HongFireディスカッションスレッドを開く（英語）
 jp.StartUpdate=MODアップデーターを開始します（最新の新しいMODとMODアップデートをダウンロードします）
 

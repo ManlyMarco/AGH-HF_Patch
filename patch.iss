@@ -65,6 +65,8 @@ Source: "Input\BepInEx_config_dev\*";     DestDir: "{app}"; Flags: ignoreversion
 ; -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
 Source: "Input\Config_eng\*"; DestDir: "{app}\BepInEx\config\"; Flags: ignoreversion recursesubdirs; Components: TranslationUncensor\AGH_Tweaks\Eng
 Source: "Input\Config_jap\*"; DestDir: "{app}\BepInEx\config\"; Flags: ignoreversion recursesubdirs; Components: TranslationUncensor\AGH_Tweaks\Jap
+; -------------------------------------------------------------------------------------------------------------------------------------------------------------------------------------
+Source: "Input\AGH_VR.bat";   DestDir: "{app}";                 Flags: ignoreversion;                Components: Feature\VR
 
 [InstallDelete]
 ; Always not necessary
@@ -119,7 +121,7 @@ Name: "{userdesktop}\Houkago Rinkan Chuudoku VR";    Filename: "{app}\AGH_VR.bat
 
 [Run]
 Filename: "{app}\AGH.exe"; Description: "Start Houkago Rinkan Chuudoku"; Flags: postinstall runasoriginaluser nowait skipifsilent skipifdoesntexist unchecked
-;TODO Filename: "{app}\AGH_VR.bat"; Description: "Start Houkago Rinkan Chuudoku in VR mode"; Flags: postinstall runasoriginaluser nowait skipifsilent skipifdoesntexist unchecked runminimized; Components: Feature\VR
+Filename: "{app}\AGH_VR.bat"; Description: "Start Houkago Rinkan Chuudoku in VR mode"; Flags: postinstall runasoriginaluser nowait skipifsilent skipifdoesntexist unchecked runminimized; Components: Feature\VR
 
 Filename: "notepad.exe"; Parameters: """{app}\Plugin Readme.md"""; Description: "Show information about included plugins"; Flags: postinstall runasoriginaluser nowait skipifsilent skipifdoesntexist unchecked
 
