@@ -1,4 +1,5 @@
-![agh hfp preview](https://github.com/ManlyMarco/AGH-HF_Patch/assets/39247311/749e77fd-5623-42b6-8929-53d1f00eb462)
+![AGH HF Patch preview](https://github.com/ManlyMarco/AGH-HF_Patch/assets/39247311/97a58549-91d7-48d9-ba29-f5ac88d3246a)
+
 # HF Patch for Houkago Rinkan Chuudoku
 An unofficial patch for [Houkago Rinkan Chuudoku](https://miconisomi.xii.jp/rinkan/) (After Service Gangbang Addicts, AGH) by miconisomi. It fully translates and uncensors the game, and includes other useful mods.
 
