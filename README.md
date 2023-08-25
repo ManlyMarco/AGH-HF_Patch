@@ -1,7 +1,7 @@
 ![AGH HF Patch preview](https://github.com/ManlyMarco/AGH-HF_Patch/assets/39247311/97a58549-91d7-48d9-ba29-f5ac88d3246a)
 
 # HF Patch for Houkago Rinkan Chuudoku
-An unofficial patch for [Houkago Rinkan Chuudoku](https://miconisomi.xii.jp/rinkan/) (After Service Gangbang Addicts, AGH) by miconisomi. It fully translates and uncensors the game, and includes other useful mods.
+An unofficial patch for [Houkago Rinkan Chuudoku](https://miconisomi.xii.jp/rinkan/) (奉課後輪姦中毒, After Service Gangbang Addicts, AGH) by miconisomi. It fully translates and uncensors the game, and includes other useful mods.
 
 HF Patch does not contain the game, only mods. You have to buy the game separately. You can buy the game [on DLsite](https://www.dlsite.com/maniax/work/=/product_id/RJ189924.html) or [on DMM](https://www.dmm.co.jp/dc/doujin/-/detail/=/cid=d_104060/). Both versions are essentially identical. This patch will only work on the v1.02 version of the game, which is the latest version available on both DLsite and DMM. If you have an older install, redownload the game from the store you got it from.
 
